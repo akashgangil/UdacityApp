@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udacity</string>
+    <string name="lecture_explorer">Lecture Explorer</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="demo_collection">Demo Collection</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+</resources>
